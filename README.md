@@ -1,123 +1,100 @@
-# Python Projects Collection 🐍
+#  Python Projects
 
-A collection of beginner-friendly Python projects created for learning and practicing Python programming concepts.
+A collection of beginner-friendly Python projects built while learning Python programming. This repository contains simple command-line applications that help strengthen core programming concepts such as variables, loops, functions, conditionals, lists, file handling, and user interaction.
 
-## 📂 Projects Included
+---
 
-### 1. Calculator
+##  Projects
+
+###  Calculator
 **File:** `calculator.py`
 
-A simple calculator that performs basic arithmetic operations:
+A simple calculator that performs basic arithmetic operations.
 
+**Features:**
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-### 2. To-Do App
-**File:** `todoapp.py`
+---
 
-A command-line To-Do List application that allows users to:
+###  Guess the Number Game
+**File:** `guess.py`
 
+A fun game where the computer generates a random number and the player tries to guess it.
+
+**Features:**
+- Random number generation
+- Unlimited guessing attempts
+- Higher/Lower hints
+- Tracks user guesses
+
+---
+
+###  Quiz Game
+**File:** `quiz_game.py`
+
+A simple quiz application that tests the user's knowledge with multiple questions.
+
+**Features:**
+- Multiple questions
+- Score tracking
+- Instant feedback
+- Final results display
+
+---
+
+###  To-Do App
+**File:** `todo_app.py`
+
+A command-line task manager for organizing daily tasks.
+
+**Features:**
 - Add tasks
 - View tasks
 - Remove tasks
-- Manage daily activities
-
-### 3. Guess the Number Game
-**File:** `guess.py`
-
-A fun number guessing game where:
-
-- The computer selects a random number.
-- The player tries to guess it.
-- Hints are provided for higher or lower guesses.
+- Manage a personal to-do list
 
 ---
 
-## 🚀 Getting Started
+##  Concepts Covered
 
-### Prerequisites
-
-Make sure Python is installed on your system.
-
-Check your Python version:
-
-```bash
-python --version
-```
-
-or
-
-```bash
-python3 --version
-```
-
-### Running the Projects
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/python_projects.git
-```
-
-Move into the project folder:
-
-```bash
-cd python_projects
-```
-
-Run any project:
-
-```bash
-python calculator.py
-```
-
-```bash
-python todoapp.py
-```
-
-```bash
-python guess.py
-```
-
----
-
-## 📚 Concepts Practiced
-
-- Variables and Data Types
+- Variables & Data Types
+- User Input
 - Conditional Statements
 - Loops
 - Functions
 - Lists
-- User Input
 - Random Module
-- File Handling (if implemented)
 - Basic Program Structure
+- Problem Solving
 
 ---
 
-## 🎯 Purpose
+##  Learning Goal
 
-This repository is part of my Python learning journey. Each project helps me understand programming fundamentals through hands-on practice.
+This repository is part of my Python learning journey. Each project is designed to improve my understanding of programming fundamentals through hands-on practice.
 
 ---
 
-## 🛠️ Future Projects
+##  Future Projects
 
-- Quiz Game
 - Password Generator
 - Rock Paper Scissors
 - Expense Tracker
 - Contact Book
-- Number Converter
+- Number Guessing AI
+- File Organizer
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Arup Roy**
 
-Learning Python and building projects one step at a time.
+Aspiring Python Developer | Learning by Building Projects
 
-⭐ If you like these projects, feel free to star the repository.
+---
+
+⭐ If you find these projects helpful, consider giving this repository a star!
