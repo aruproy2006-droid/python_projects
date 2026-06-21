@@ -126,7 +126,6 @@ This repository is part of my Python learning journey. Each project is designed 
 ##  Future Projects
 
 - Expense Tracker
-- Contact Book
 - Number Guessing AI
 - File Organizer
 
