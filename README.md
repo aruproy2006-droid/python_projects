@@ -19,6 +19,21 @@ A simple calculator that performs basic arithmetic operations.
 
 ---
 
+## Contact Book
+
+**File:** `contact_book.py`
+
+A Python application that allows users to store and manage contact information such as names and phone numbers.
+
+**Features:**
+
+- Add new contacts
+- View saved contacts
+- Search contacts by name
+- Simple menu-driven interface
+
+---
+
 ###  Guess the Number Game
 **File:** `guess.py`
 
