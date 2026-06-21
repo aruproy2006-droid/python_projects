@@ -32,6 +32,21 @@ A fun game where the computer generates a random number and the player tries to 
 
 ---
 
+## Password Generator
+
+**File:** `password_generator.py`
+
+A Python application that generates random and secure passwords based on the user's preferred password length.
+
+**Features:**
+
+- Custom password length
+- Random password generation
+- Includes letters, numbers, and symbols
+- Easy-to-use interface
+
+---
+
 ###  Quiz Game
 **File:** `quiz_game.py`
 
