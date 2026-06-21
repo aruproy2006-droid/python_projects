@@ -45,6 +45,21 @@ A simple quiz application that tests the user's knowledge with multiple question
 
 ---
 
+## Rock Paper Scissors
+
+**File:** `rock_paper_scissors.py`
+
+A simple Python implementation of the classic Rock, Paper, Scissors game where the user plays against the computer.
+
+**Features:**
+
+- Randomized computer moves
+- User input handling
+- Automatic result calculation
+- Interactive gameplay
+
+---
+
 ###  To-Do App
 **File:** `todo_app.py`
 
@@ -81,7 +96,6 @@ This repository is part of my Python learning journey. Each project is designed 
 ##  Future Projects
 
 - Password Generator
-- Rock Paper Scissors
 - Expense Tracker
 - Contact Book
 - Number Guessing AI
