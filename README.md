@@ -1,6 +1,6 @@
 #  Python Projects
 
-A collection of beginner-friendly Python projects built while learning Python programming. This repository contains simple command-line applications that help strengthen core programming concepts such as variables, loops, functions, conditionals, lists, file handling, and user interaction.
+A curated collection of Python projects built to practice programming fundamentals and develop practical coding skills. These projects cover topics such as user input, control flow, functions, data structures, file operations, automation, and algorithmic thinking.
 
 ---
 
