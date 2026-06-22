@@ -49,6 +49,21 @@ A Python application that helps users record and track their daily expenses.
 
 ---
 
+## File Organizer
+
+**File:** `file_organizer.py`
+
+A Python application that automatically organizes files into folders based on their file types.
+
+**Features:**
+
+- Organizes files by extension
+- Creates folders automatically
+- Supports multiple file types
+- Reduces desktop and folder clutter
+
+---
+
 ###  Guess the Number Game
 **File:** `guess.py`
 
