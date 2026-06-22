@@ -148,17 +148,23 @@ A command-line task manager for organizing daily tasks.
 
 ---
 
-##  Concepts Covered
+## Concepts Covered
 
 - Variables & Data Types
 - User Input
 - Conditional Statements
 - Loops
 - Functions
-- Lists
+- Lists & Dictionaries
+- Error Handling
 - Random Module
-- Basic Program Structure
+- String Manipulation
+- File Handling
+- OS & Shutil Modules
+- Basic Algorithms
 - Problem Solving
+- Menu-Driven Applications
+- Project Structure
 
 ---
 
