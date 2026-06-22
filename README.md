@@ -47,6 +47,21 @@ A fun game where the computer generates a random number and the player tries to 
 
 ---
 
+## Number Guessing AI
+
+**File:** `number_guessing_ai.py`
+
+A Python game where the computer (AI) tries to guess the number chosen by the user using a smart guessing strategy.
+
+**Features:**
+
+- AI-powered number guessing
+- Higher/Lower hints from the user
+- Efficient binary search algorithm
+- Tracks the number of attempts
+
+---
+
 ## Password Generator
 
 **File:** `password_generator.py`
