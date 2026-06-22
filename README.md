@@ -141,7 +141,6 @@ This repository is part of my Python learning journey. Each project is designed 
 ##  Future Projects
 
 - Expense Tracker
-- Number Guessing AI
 - File Organizer
 
 ---
