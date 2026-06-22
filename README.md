@@ -34,6 +34,21 @@ A Python application that allows users to store and manage contact information s
 
 ---
 
+## Expense Tracker
+
+**File:** `expense_tracker.py`
+
+A Python application that helps users record and track their daily expenses.
+
+**Features:**
+
+- Add new expenses
+- View all recorded expenses
+- Calculate total spending
+- Simple menu-driven interface
+
+---
+
 ###  Guess the Number Game
 **File:** `guess.py`
 
