@@ -168,12 +168,6 @@ This repository is part of my Python learning journey. Each project is designed 
 
 ---
 
-##  Future Projects
-
-- File Organizer
-
----
-
 ##  Author
 
 **Arup Roy**
